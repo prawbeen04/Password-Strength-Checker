@@ -1,4 +1,4 @@
-[Password_Strength_Checker.html](https://github.com/user-attachments/files/28849143/Password_Strength_Checker.html)
+[Password_Strength_Checker.html](https://github.com/user-attachments/files/28849216/Password_Strength_Checker.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -279,7 +279,4 @@
 </script>
 
 </body>
-</html>ading Password_Strength_Checker.html…]()
-[Password strength checker.pdf](https://github.com/user-attachments/files/28849117/Password.strength.checker.pdf)
-# Password-Strength-Checker
-A cybersecurity internship project that validates password strength in real-time using custom JavaScript conditions and Regular Expressions.
+</html>
