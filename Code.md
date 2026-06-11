@@ -1,3 +1,4 @@
+[Password_Strength_Checker.html](https://github.com/user-attachments/files/28849465/Password_Strength_Checker.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
