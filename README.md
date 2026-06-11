@@ -1,3 +1,5 @@
+[Password strength checker.pdf](https://github.com/user-attachments/files/28849271/Password.strength.checker.pdf)
+A cybersecurity internship project that validates password strength in real-time using custom JavaScript conditions and Regular Expressions.
 [Password_Strength_Checker.html](https://github.com/user-attachments/files/28849216/Password_Strength_Checker.html)
 <!DOCTYPE html>
 <html lang="en">
